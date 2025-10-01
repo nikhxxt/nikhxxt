@@ -2,9 +2,7 @@
 🎓 I'm a 3rd year Computer Science Engineering student  
 💡 Passionate about building real-world tech solutions  
 🌱 Currently learning: Full Stack Development | DSA | Open Source  
-🤝 Looking to collaborate on exciting web, app, or AI/ML projects  
-📫 Reach me: [nikhxtwork@gmail.com 
-              or (https://www.linkedin.com/in/nikhxt)]  
+🤝 Looking to collaborate on exciting web, app, or AI/ML projects   
 😄 Pronouns: She/Her  
 
 <!---
